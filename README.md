@@ -1,9 +1,9 @@
 
 ---
 
-# Health Tracking App
+# Health Metrics Dashboard
 
-A full-stack Health Tracking App built with the MERN (MongoDB, Express, React, Node.js) stack. This app allows users to log and track daily health metrics such as body temperature, blood pressure (systolic/diastolic), and heart rate. Users can create, view, update, and delete health records, while also utilizing features like searching and filtering through the records.
+A full-stack Health Metrics Dashboard built with the MERN (MongoDB, Express, React, Node.js) stack. This app allows users to log and track daily health metrics such as body temperature, blood pressure (systolic/diastolic), and heart rate. Users can create, view, update, and delete health records, while also utilizing features like searching and filtering through the records.
 
 ## Features
 
